@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\Allergies\Allergies\bin\Debug\net6.0\Allergies.exe
+C:\Users\Redth\source\repos\Allergies\Allergies\bin\Debug\net6.0\Allergies.deps.json
+C:\Users\Redth\source\repos\Allergies\Allergies\bin\Debug\net6.0\Allergies.runtimeconfig.json
+C:\Users\Redth\source\repos\Allergies\Allergies\bin\Debug\net6.0\Allergies.dll
+C:\Users\Redth\source\repos\Allergies\Allergies\bin\Debug\net6.0\Allergies.pdb
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\Allergies.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\Allergies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\Allergies.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\Allergies.AssemblyInfo.cs
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\Allergies.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\Allergies.dll
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\refint\Allergies.dll
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\Allergies.pdb
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\Allergies.genruntimeconfig.cache
+C:\Users\Redth\source\repos\Allergies\Allergies\obj\Debug\net6.0\ref\Allergies.dll

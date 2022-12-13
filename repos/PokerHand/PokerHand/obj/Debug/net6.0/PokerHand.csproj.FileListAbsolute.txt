@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\PokerHand\PokerHand\bin\Debug\net6.0\PokerHand.exe
+C:\Users\Redth\source\repos\PokerHand\PokerHand\bin\Debug\net6.0\PokerHand.deps.json
+C:\Users\Redth\source\repos\PokerHand\PokerHand\bin\Debug\net6.0\PokerHand.runtimeconfig.json
+C:\Users\Redth\source\repos\PokerHand\PokerHand\bin\Debug\net6.0\PokerHand.dll
+C:\Users\Redth\source\repos\PokerHand\PokerHand\bin\Debug\net6.0\PokerHand.pdb
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\PokerHand.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\PokerHand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\PokerHand.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\PokerHand.AssemblyInfo.cs
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\PokerHand.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\PokerHand.dll
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\refint\PokerHand.dll
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\PokerHand.pdb
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\PokerHand.genruntimeconfig.cache
+C:\Users\Redth\source\repos\PokerHand\PokerHand\obj\Debug\net6.0\ref\PokerHand.dll

@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.exe
+C:\Users\Redth\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.deps.json
+C:\Users\Redth\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.runtimeconfig.json
+C:\Users\Redth\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.dll
+C:\Users\Redth\source\repos\PigLatin\PigLatin\bin\Debug\net6.0\PigLatin.pdb
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.AssemblyInfo.cs
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.dll
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\refint\PigLatin.dll
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.pdb
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\PigLatin.genruntimeconfig.cache
+C:\Users\Redth\source\repos\PigLatin\PigLatin\obj\Debug\net6.0\ref\PigLatin.dll

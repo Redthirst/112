@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\bin\Debug\net6.0\AlienMessage.exe
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\bin\Debug\net6.0\AlienMessage.deps.json
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\bin\Debug\net6.0\AlienMessage.runtimeconfig.json
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\bin\Debug\net6.0\AlienMessage.dll
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\bin\Debug\net6.0\AlienMessage.pdb
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\AlienMessage.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\AlienMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\AlienMessage.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\AlienMessage.AssemblyInfo.cs
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\AlienMessage.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\AlienMessage.dll
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\refint\AlienMessage.dll
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\AlienMessage.pdb
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\AlienMessage.genruntimeconfig.cache
+C:\Users\Redth\source\repos\AlienMessage\AlienMessage\obj\Debug\net6.0\ref\AlienMessage.dll

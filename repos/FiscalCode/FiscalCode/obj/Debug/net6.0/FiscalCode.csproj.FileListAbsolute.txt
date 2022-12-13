@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\bin\Debug\net6.0\FiscalCode.exe
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\bin\Debug\net6.0\FiscalCode.deps.json
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\bin\Debug\net6.0\FiscalCode.runtimeconfig.json
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\bin\Debug\net6.0\FiscalCode.dll
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\bin\Debug\net6.0\FiscalCode.pdb
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\FiscalCode.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\FiscalCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\FiscalCode.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\FiscalCode.AssemblyInfo.cs
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\FiscalCode.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\FiscalCode.dll
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\refint\FiscalCode.dll
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\FiscalCode.pdb
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\FiscalCode.genruntimeconfig.cache
+C:\Users\Redth\source\repos\FiscalCode\FiscalCode\obj\Debug\net6.0\ref\FiscalCode.dll

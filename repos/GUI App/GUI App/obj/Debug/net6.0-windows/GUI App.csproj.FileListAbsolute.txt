@@ -1,0 +1,30 @@
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\GUI App.exe
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\GUI App.deps.json
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\GUI App.runtimeconfig.json
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\GUI App.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\GUI App.pdb
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI_App.Form1.resources
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.csproj.GenerateResource.cache
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.AssemblyInfo.cs
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\refint\GUI App.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.pdb
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.genruntimeconfig.cache
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\ref\GUI App.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Redth\source\repos\GUI App\GUI App\obj\Debug\net6.0-windows\GUI App.csproj.CopyComplete

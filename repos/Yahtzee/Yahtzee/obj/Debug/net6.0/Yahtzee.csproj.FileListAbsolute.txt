@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\bin\Debug\net6.0\Yahtzee.exe
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\bin\Debug\net6.0\Yahtzee.deps.json
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\bin\Debug\net6.0\Yahtzee.runtimeconfig.json
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\bin\Debug\net6.0\Yahtzee.dll
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\bin\Debug\net6.0\Yahtzee.pdb
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.AssemblyInfo.cs
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.dll
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\refint\Yahtzee.dll
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.pdb
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.genruntimeconfig.cache
+C:\Users\Redth\source\repos\Yahtzee\Yahtzee\obj\Debug\net6.0\ref\Yahtzee.dll

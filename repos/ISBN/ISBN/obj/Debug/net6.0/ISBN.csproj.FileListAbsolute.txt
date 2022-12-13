@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\ISBN\ISBN\bin\Debug\net6.0\ISBN.exe
+C:\Users\Redth\source\repos\ISBN\ISBN\bin\Debug\net6.0\ISBN.deps.json
+C:\Users\Redth\source\repos\ISBN\ISBN\bin\Debug\net6.0\ISBN.runtimeconfig.json
+C:\Users\Redth\source\repos\ISBN\ISBN\bin\Debug\net6.0\ISBN.dll
+C:\Users\Redth\source\repos\ISBN\ISBN\bin\Debug\net6.0\ISBN.pdb
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ISBN.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ISBN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ISBN.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ISBN.AssemblyInfo.cs
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ISBN.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ISBN.dll
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\refint\ISBN.dll
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ISBN.pdb
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ISBN.genruntimeconfig.cache
+C:\Users\Redth\source\repos\ISBN\ISBN\obj\Debug\net6.0\ref\ISBN.dll

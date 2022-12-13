@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\bin\Debug\net6.0\MaxDistance.exe
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\bin\Debug\net6.0\MaxDistance.deps.json
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\bin\Debug\net6.0\MaxDistance.runtimeconfig.json
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\bin\Debug\net6.0\MaxDistance.dll
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\bin\Debug\net6.0\MaxDistance.pdb
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\MaxDistance.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\MaxDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\MaxDistance.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\MaxDistance.AssemblyInfo.cs
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\MaxDistance.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\MaxDistance.dll
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\refint\MaxDistance.dll
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\MaxDistance.pdb
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\MaxDistance.genruntimeconfig.cache
+C:\Users\Redth\source\repos\MaxDistance\MaxDistance\obj\Debug\net6.0\ref\MaxDistance.dll

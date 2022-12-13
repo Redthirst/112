@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\Syllables.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\Syllables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\Syllables.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\Syllables.AssemblyInfo.cs
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\Syllables.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\Syllables\Syllables\bin\Debug\net6.0\Syllables.exe
+C:\Users\Redth\source\repos\Syllables\Syllables\bin\Debug\net6.0\Syllables.deps.json
+C:\Users\Redth\source\repos\Syllables\Syllables\bin\Debug\net6.0\Syllables.runtimeconfig.json
+C:\Users\Redth\source\repos\Syllables\Syllables\bin\Debug\net6.0\Syllables.dll
+C:\Users\Redth\source\repos\Syllables\Syllables\bin\Debug\net6.0\Syllables.pdb
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\Syllables.dll
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\refint\Syllables.dll
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\Syllables.pdb
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\Syllables.genruntimeconfig.cache
+C:\Users\Redth\source\repos\Syllables\Syllables\obj\Debug\net6.0\ref\Syllables.dll

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "SafM3RWIzX5UbcKS07GL7pYUwO8wE5FVV+p1YJY0t3aS1/ZS4I5o1/gRf19T2rN6N7NNzUxI373HKTKAIMrR6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Redth\\source\\repos\\GUI App test\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Redth\\.nuget\\packages\\epplus\\6.0.5\\epplus.6.0.5.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\epplus.interfaces\\6.0.0\\epplus.interfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\epplus.system.drawing\\6.0.0\\epplus.system.drawing.6.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\5.0.0\\microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.extensions.configuration.json\\5.0.0\\microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.2.0\\microsoft.io.recyclablememorystream.2.2.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0\\system.security.cryptography.pkcs.5.0.0.nupkg.sha512",
+    "C:\\Users\\Redth\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

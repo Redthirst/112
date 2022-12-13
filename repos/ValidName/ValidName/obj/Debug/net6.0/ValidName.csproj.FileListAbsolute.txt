@@ -1,0 +1,15 @@
+C:\Users\Redth\source\repos\ValidName\ValidName\bin\Debug\net6.0\ValidName.exe
+C:\Users\Redth\source\repos\ValidName\ValidName\bin\Debug\net6.0\ValidName.deps.json
+C:\Users\Redth\source\repos\ValidName\ValidName\bin\Debug\net6.0\ValidName.runtimeconfig.json
+C:\Users\Redth\source\repos\ValidName\ValidName\bin\Debug\net6.0\ValidName.dll
+C:\Users\Redth\source\repos\ValidName\ValidName\bin\Debug\net6.0\ValidName.pdb
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ValidName.csproj.AssemblyReference.cache
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ValidName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ValidName.AssemblyInfoInputs.cache
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ValidName.AssemblyInfo.cs
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ValidName.csproj.CoreCompileInputs.cache
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ValidName.dll
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\refint\ValidName.dll
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ValidName.pdb
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ValidName.genruntimeconfig.cache
+C:\Users\Redth\source\repos\ValidName\ValidName\obj\Debug\net6.0\ref\ValidName.dll

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: "CL.exe" exited with code 2.
+C:\Users\Redth\source\repos\C++ test app\C++ test app\main.cpp(10,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

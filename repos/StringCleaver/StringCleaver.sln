@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCleaver", "StringCleaver\StringCleaver.csproj", "{BD57AE51-1A29-4275-807F-46DB97EAA86E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD57AE51-1A29-4275-807F-46DB97EAA86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD57AE51-1A29-4275-807F-46DB97EAA86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD57AE51-1A29-4275-807F-46DB97EAA86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD57AE51-1A29-4275-807F-46DB97EAA86E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9666F0AC-FFE8-496E-98CC-BF519A807C58}
+	EndGlobalSection
+EndGlobal
